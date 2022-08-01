@@ -1,0 +1,30 @@
+\contentsline {chapter}{Wstęp}{5}{}%
+\contentsline {chapter}{\numberline {1}Ontologia}{9}{}%
+\contentsline {section}{\numberline {1.1}Języki}{9}{}%
+\contentsline {subsection}{\numberline {1.1.1}Języki związane z ontologiami}{9}{}%
+\contentsline {subsection}{\numberline {1.1.2}OWL}{10}{}%
+\contentsline {section}{\numberline {1.2}Metodologie i metodyki}{12}{}%
+\contentsline {subsection}{\numberline {1.2.1}Metodologie wysokiego poziomu}{12}{}%
+\contentsline {subsection}{\numberline {1.2.2}Metodologie mikro poziomu}{14}{}%
+\contentsline {subsection}{\numberline {1.2.3}Metodyki}{15}{}%
+\contentsline {chapter}{\numberline {2}ODE}{19}{}%
+\contentsline {section}{\numberline {2.1}Czym jest ODE}{19}{}%
+\contentsline {section}{\numberline {2.2}Zastosowania oraz działanie ODE}{20}{}%
+\contentsline {section}{\numberline {2.3}Problemy istniejących ODE oraz potencjał rynkowy}{22}{}%
+\contentsline {section}{\numberline {2.4}Ankieta}{22}{}%
+\contentsline {subsection}{\numberline {2.4.1}Analiza wyników ankiety}{22}{}%
+\contentsline {chapter}{\numberline {3}Zebranie wymagań oraz projekt aplikacji}{25}{}%
+\contentsline {section}{\numberline {3.1}FURPS}{25}{}%
+\contentsline {section}{\numberline {3.2}Projekt aplikacji}{26}{}%
+\contentsline {subsection}{\numberline {3.2.1}Funkcjonalność}{26}{}%
+\contentsline {subsection}{\numberline {3.2.2}Używalność, wydajność, niezawodność i wsparcie}{28}{}%
+\contentsline {subsection}{\numberline {3.2.3}Klasy, oraz przypadki użycia}{29}{}%
+\contentsline {subsection}{\numberline {3.2.4}Interfejs}{30}{}%
+\contentsline {chapter}{\numberline {4}Implementacja oraz przedstawienie wersji demonstracyjnej}{35}{}%
+\contentsline {section}{\numberline {4.1}Klasy}{35}{}%
+\contentsline {section}{\numberline {4.2}Wersja demonstracyjna}{37}{}%
+\contentsline {chapter}{Zakończenie}{41}{}%
+\contentsline {chapter}{Spis tabel}{43}{}%
+\contentsline {chapter}{Spis rysunków}{45}{}%
+\contentsline {chapter}{Spis listingów}{47}{}%
+\contentsline {chapter}{Bibliografia}{47}{}%

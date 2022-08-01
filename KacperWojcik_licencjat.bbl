@@ -1,0 +1,806 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{EwelinaStoj.}{article}{}
+    \name{author}{1}{}{%
+      {{hash=E}{%
+         family={{Ewelina St{\'o}j}},
+         familyi={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{E2}
+    \strng{fullhash}{E2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Ile miejsca zajmuje dzisiejszy Internet? Ok. 10 bilion{\'o}w
+  TB}
+    \verb{url}
+    \verb https://www.purepc.pl/ile-miejsca-zajmuje-dzisiejszy-internet-ok-10-b
+    \verb ilionow-tb
+    \endverb
+    \field{journaltitle}{PurePC}
+    \field{year}{2018}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{wow}{article}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={{W3}},
+         familyi={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{OWL/Web Ontology Language (OWL)}
+    \verb{url}
+    \verb https://www.w3.org/OWL/
+    \endverb
+    \field{journaltitle}{W3}
+    \field{year}{2012}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{PWN}{online}{}
+    \name{author}{1}{}{%
+      {{hash=E}{%
+         family={{Encyklopedia PWN}},
+         familyi={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{E1}
+    \strng{fullhash}{E1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{ontologia}
+    \verb{url}
+    \verb https://encyklopedia.pwn.pl/haslo/ontologia;3951174.html
+    \endverb
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{wikipediaont}{book}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={{Adam Czarnecki}},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Pomorskie Wydawnictwo Naukowo-Techniczne PWNT}%
+    }
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Technologie informatyczne wykorzystywane w projektowaniu i
+  implementacji ontologii}
+    \field{year}{2006}
+  \endentry
+
+  \entry{Strozewski.2004}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SW}{%
+         family={Str{\'o}{\.z}ewski},
+         familyi={S\bibinitperiod},
+         given={W{\l}adys{\l}aw},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Aureus}%
+    }
+    \strng{namehash}{SW1}
+    \strng{fullhash}{SW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{isbn}{8387887447}
+    \field{series}{Kompendia filozoficzne}
+    \field{title}{Ontologia}
+    \list{location}{1}{%
+      {Krak{\'o}w}%
+    }
+    \field{year}{2004}
+  \endentry
+
+  \entry{wikipediaupper}{article}{}
+    \name{author}{1}{}{%
+      {{hash=V}{%
+         family={{V Mascardi, V Cordi, P Rosso }},
+         familyi={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{V1}
+    \strng{fullhash}{V1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{A Comparsion of Upper Ontologies}
+    \verb{url}
+    \verb https://web.archive.org/web/20171113222220/https://pdfs.semanticschol
+    \verb ar.org/4f28/6fdf9280449588b9d3781c9c897da28e0cff.pdf
+    \endverb
+    \field{year}{2007}
+  \endentry
+
+  \entry{6508326}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=PRRP}{%
+         family={Priya},
+         familyi={P\bibinitperiod},
+         suffix={P.},
+         suffixi={P\bibinitperiod},
+         given={Rajalaxmi-R.},
+         giveni={R\bibinithyphendelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PPRR1}
+    \strng{fullhash}{PPRR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2013 International Conference on Information
+  Communication and Embedded Systems (ICICES)}
+    \verb{doi}
+    \verb 10.1109/ICICES.2013.6508326
+    \endverb
+    \field{title}{Ontology based semantic query suggestion for movie search}
+    \field{year}{2013}
+  \endentry
+
+  \entry{protegeabout}{article}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={{Protege}},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P2}
+    \strng{fullhash}{P2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Protege - About}
+    \verb{url}
+    \verb https://protege.stanford.edu/about.php
+    \endverb
+    \field{journaltitle}{Protege}
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{KIF}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=GM}{%
+         family={Gruninger},
+         familyi={G\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GM1}
+    \strng{fullhash}{GM1}
+    \field{labelnamesource}{author}
+    \verb{url}
+    \verb https://images.slideplayer.com/24/6956543/slides/slide_1.jpg
+    \endverb
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{wikipedloom}{article}{}
+    \name{author}{5}{}{%
+      {{hash=GH}{%
+         family={Glaser},
+         familyi={G\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=ms}{%
+         prefix={m.},
+         prefixi={m\bibinitperiod},
+         family={schraefel},
+         familyi={s\bibinitperiod},
+      }}%
+      {{hash=GN}{%
+         family={Gibbins},
+         familyi={G\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=SN}{%
+         family={Shadbolt},
+         familyi={S\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=HS}{%
+         family={Harris},
+         familyi={H\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE Computer Society}%
+    }
+    \keyw{semantic web;user interfaces;cs aktive space}
+    \strng{namehash}{GH+1}
+    \strng{fullhash}{GHsmGNSNHS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/MIS.2004.8
+    \endverb
+    \field{issn}{1941-1294}
+    \field{number}{03}
+    \field{pages}{41\bibrangedash 47}
+    \field{title}{CS AKTive Space, or How We Learned to Stop Worrying and Love
+  the Semantic Web}
+    \field{volume}{6}
+    \list{location}{1}{%
+      {Los Alamitos, CA, USA}%
+    }
+    \field{journaltitle}{IEEE Intelligent Systems}
+    \field{year}{2004}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{owldok}{article}{}
+    \field{labeltitlesource}{title}
+    \field{title}{OWL 2 Web Ontology Language Document Overview (Second
+  Edition)}
+    \verb{url}
+    \verb https://www.w3.org/TR/owl2-overview/#Introduction
+    \endverb
+    \field{year}{2012}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{C.MariaKeet.2020}{book}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={{C. Maria Keet}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{v1.5}
+    \field{title}{An Introduction to Ontology Engineering}
+    \field{year}{2020}
+  \endentry
+
+  \entry{wikipediaRDF}{online}{}
+    \name{author}{1}{}{%
+      {{hash=W}{%
+         family={{W3}},
+         familyi={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{W1}
+    \strng{fullhash}{W1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Resource Description Framework}
+    \verb{url}
+    \verb https://www.w3.org/TR/PR-rdf-syntax/Overview.html
+    \endverb
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{turt}{article}{}
+    \name{author}{1}{}{%
+      {{hash=EPGC}{%
+         family={Eric\bibnamedelima Prud'hommeaux},
+         familyi={E\bibinitperiod\bibinitdelim P\bibinitperiod},
+         given={Gavin\bibnamedelima Carothers},
+         giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EPGC1}
+    \strng{fullhash}{EPGC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Turtle - Terse RDF Triple Language}
+    \verb{url}
+    \verb https://www.w3.org/TR/2012/WD-turtle-20120710/
+    \endverb
+    \field{year}{2012}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{uri}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BLT}{%
+         family={Berners-Lee},
+         familyi={B\bibinithyphendelim L\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BLT1}
+    \strng{fullhash}{BLT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Uniform Resource Identifiers (URI): Generic Syntax}
+    \field{year}{1998}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{kon}{online}{}
+    \name{author}{1}{}{%
+      {{hash=WA}{%
+         family={Węgrzyn},
+         familyi={W\bibinitperiod},
+         given={Anna},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WA1}
+    \strng{fullhash}{WA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Konceptualizacja}
+    \verb{url}
+    \verb https://mfiles.pl/pl/index.php/Konceptualizacja
+    \endverb
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{NeON}{book}{}
+    \name{author}{1}{}{%
+      {{hash=M}{%
+         family={{Mari Carmen Suarez-Figueroa, Guadalupe Aguado de Cea, Carlos
+  Buil, Klaas Dellschaft, Mariano Fernandez-Lopez, Andres Garcia, Asuncion
+  G´omez-P´erez, German Herrero, Elena Montiel-Ponsoda, Marta Sabou, Boris
+  Villazon-Terrazas, and Zheng Yufei}},
+         familyi={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{M1}
+    \strng{fullhash}{M1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{v1.0}
+    \field{title}{NeOn methodology for building contextualized ontology
+  networks}
+    \field{year}{2008}
+  \endentry
+
+  \entry{CQ}{article}{}
+    \name{author}{1}{}{%
+      {{hash=R}{%
+         family={{Robert Stevens, Sean Bechhofer}},
+         familyi={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{R1}
+    \strng{fullhash}{R1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Competency Questions}
+    \verb{url}
+    \verb https://studentnet.cs.manchester.ac.uk/pgt/2013/COMP60421/slides/Week
+    \verb 2-CQ.pdf
+    \endverb
+    \field{year}{2013}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{lifecycle}{article}{}
+    \name{author}{16}{}{%
+      {{hash=VA}{%
+         family={Vizedom},
+         familyi={V\bibinitperiod},
+         given={Amanda},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=NF}{%
+         family={Neuhaus},
+         familyi={N\bibinitperiod},
+         given={Fabian},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=BK}{%
+         family={Baclawski},
+         familyi={B\bibinitperiod},
+         given={Kenneth},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bennett},
+         familyi={B\bibinitperiod},
+         given={Mike},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Dean},
+         familyi={D\bibinitperiod},
+         given={Mike},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Denny},
+         familyi={D\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Grüninger},
+         familyi={G\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Hashemi},
+         familyi={H\bibinitperiod},
+         given={Ali},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Longstreth},
+         familyi={L\bibinitperiod},
+         given={Terry},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=OL}{%
+         family={Obrst},
+         familyi={O\bibinitperiod},
+         given={Leo},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RS}{%
+         family={Ray},
+         familyi={R\bibinitperiod},
+         given={Steve},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Sriram},
+         familyi={S\bibinitperiod},
+         given={Ram},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Schneider},
+         familyi={S\bibinitperiod},
+         given={Todd},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=VM}{%
+         family={Vegetti},
+         familyi={V\bibinitperiod},
+         given={Marcela},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={West},
+         familyi={W\bibinitperiod},
+         given={Matthew},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=YP}{%
+         family={Yim},
+         familyi={Y\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VA+1}
+    \strng{fullhash}{VANFBKBMDMDMGMHALTOLRSSRSTVMWMYP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.3233/AO-130125
+    \endverb
+    \field{pages}{179\bibrangedash 194}
+    \field{title}{Toward Ontology Evaluation across the lifecycle}
+    \field{volume}{8}
+    \field{journaltitle}{Applied ontology}
+    \field{month}{10}
+    \field{year}{2013}
+  \endentry
+
+  \entry{agile}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BJA}{%
+         family={Baron-Jaworska},
+         familyi={B\bibinithyphendelim J\bibinitperiod},
+         given={Anna},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BJA1}
+    \strng{fullhash}{BJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Co to jest Agile i Scrum i dlaczego warto z nich korzystać
+  przy projektowaniu systemów IT?}
+    \verb{url}
+    \verb https://kotrak.com/pl/blog/co-to-jest-agile-i-scrum-i-dlaczego-warto-
+    \verb z-nich-korzystac/
+    \endverb
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{lang}{book}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={{C. Maria Keet}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Transforming semi-structured life science diagrams into
+  meaningful domain ontologies with DiDOn}
+    \field{year}{2012}
+  \endentry
+
+  \entry{repr_inf}{book}{}
+    \name{author}{1}{}{%
+      {{hash=D}{%
+         family={{Douglas B. Lenat, R. V. Guha}},
+         familyi={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{D1}
+    \strng{fullhash}{D1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Building large knowledge-based systems; representation and
+  inference in the Cyc project}
+    \field{year}{1989}
+  \endentry
+
+  \entry{wikipediaIDEF5}{article}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={{Perakath C. Benjamin et al.}},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P1}
+    \strng{fullhash}{P1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{IDEF5 Method Report}
+    \field{year}{1994}
+  \endentry
+
+  \entry{fil_1}{book}{}
+    \name{author}{1}{}{%
+      {{hash=N}{%
+         family={{Nicola Guarino, Chris Welty}},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{N1}
+    \strng{fullhash}{N1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{A formal ontology of properties}
+    \field{year}{2000}
+  \endentry
+
+  \entry{fil_2}{book}{}
+    \name{author}{1}{}{%
+      {{hash=N}{%
+         family={{Nicola Guarino, Chris Welty}},
+         familyi={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{N1}
+    \strng{fullhash}{N1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Identity, unity, and individuality: towards a formal toolkit
+  for ontological analysis}
+    \field{year}{2000}
+  \endentry
+
+  \entry{OntoClean}{article}{}
+    \name{author}{1}{}{%
+      {{hash=G}{%
+         family={{Guarino, Nicola and Chris Welty}},
+         familyi={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{G1}
+    \strng{fullhash}{G1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Evaluating Ontological Decisions with OntoClean}
+    \field{year}{2002}
+  \endentry
+
+  \entry{oops}{book}{}
+    \name{author}{1}{}{%
+      {{hash=M}{%
+         family={{Mar´ıa Poveda-Villal´on, Mari Carmen Su´arez-Figueroa,
+  Asunci´on G´omez-Perez}},
+         familyi={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{M2}
+    \strng{fullhash}{M2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Validating ontologies with OOPS!}
+    \field{year}{2012}
+  \endentry
+
+  \entry{protegecli}{article}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={{Protege}},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P2}
+    \strng{fullhash}{P2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Protege - Community}
+    \verb{url}
+    \verb https://protege.stanford.edu/community.php
+    \endverb
+    \field{journaltitle}{Protege}
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{Strategie}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PW}{%
+         family={Pawe{\l}},
+         familyi={P\bibinitperiod},
+         given={Waniowski},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Polskie Wydawnictwo Ekonomiczne}%
+    }
+    \strng{namehash}{PW1}
+    \strng{fullhash}{PW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{isbn}{83-208-1447-2 (35+10)}
+    \field{title}{Strategie cenowe}
+    \list{location}{1}{%
+      {Warszawa}%
+    }
+    \field{year}{2003}
+  \endentry
+
+  \entry{furps}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TT}{%
+         family={Tomaszewski},
+         familyi={T\bibinitperiod},
+         given={Tomasz},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TT1}
+    \strng{fullhash}{TT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Metoda FURPS, czyli 29 rzeczy do przemyślenia w każdym
+  projekcie IT}
+    \verb{url}
+    \verb https://www.analizait.pl/2014/metoda-furps-czyli-29-rzeczy-do-przemys
+    \verb lenia-w-kazdym-projekcie-it/
+    \endverb
+    \field{year}{2014}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{github}{article}{}
+    \name{author}{1}{}{%
+      {{hash=K}{%
+         family={{Kacper Wojcik}},
+         familyi={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{K1}
+    \strng{fullhash}{K1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{ODE}
+    \verb{url}
+    \verb https://github.com/KWojcik243/ODE
+    \endverb
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{pizza}{online}{}
+    \verb{url}
+    \verb https://protege.stanford.edu/ontologies/pizza/pizza.owl
+    \endverb
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{python}{book}{}
+    \name{author}{2}{}{%
+      {{hash=VRG}{%
+         family={Van\bibnamedelima Rossum},
+         familyi={V\bibinitperiod\bibinitdelim R\bibinitperiod},
+         given={Guido},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=DFL}{%
+         family={Drake},
+         familyi={D\bibinitperiod},
+         given={Fred\bibnamedelima L.},
+         giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {CreateSpace}%
+    }
+    \strng{namehash}{VRGDFL1}
+    \strng{fullhash}{VRGDFL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{isbn}{1441412697}
+    \field{title}{Python 3 Reference Manual}
+    \list{location}{1}{%
+      {Scotts Valley, CA}%
+    }
+    \field{year}{2009}
+  \endentry
+
+  \entry{owlready2}{article}{}
+    \name{author}{1}{}{%
+      {{hash=L}{%
+         family={{Lamy JB}},
+         familyi={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{L1}
+    \strng{fullhash}{L1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Owlready: Ontology-oriented programming in Python with
+  automatic classification and high level constructs for biomedical ontologies}
+    \verb{url}
+    \verb http://www.lesfleursdunormal.fr/static/_downloads/article_owlready_ai
+    \verb m_2017.pdf
+    \endverb
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{dj}{online}{}
+    \field{labeltitlesource}{title}
+    \field{title}{Django}
+    \verb{url}
+    \verb https://www.djangoproject.com/
+    \endverb
+    \field{journaltitle}{django}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+\enddatalist
+\endinput
